@@ -16090,838 +16090,98 @@ var settings = {
       Id: "105",
       Name: "Statue",
       Framed: "true",
-      Frames: [
-        {
-          U: 0,
-          V: 0,
-          Variety: "Armor Statue",
-        },
-        {
-          U: 36,
-          V: 0,
-          Variety: "Angel Statue",
-        },
-        {
-          U: 72,
-          V: 0,
-          Variety: "Star Statue",
-        },
-        {
-          U: 108,
-          V: 0,
-          Variety: "Sword Statue",
-        },
-        {
-          U: 144,
-          V: 0,
-          Variety: "Slime Statue",
-        },
-        {
-          U: 180,
-          V: 0,
-          Variety: "Goblin Statue",
-        },
-        {
-          U: 216,
-          V: 0,
-          Variety: "Shield Statue",
-        },
-        {
-          U: 252,
-          V: 0,
-          Variety: "Bat Statue",
-        },
-        {
-          U: 288,
-          V: 0,
-          Variety: "Fish Statue",
-        },
-        {
-          U: 324,
-          V: 0,
-          Variety: "Bunny Statue",
-        },
-        {
-          U: 360,
-          V: 0,
-          Variety: "Skeleton Statue",
-        },
-        {
-          U: 396,
-          V: 0,
-          Variety: "Reaper Statue",
-        },
-        {
-          U: 432,
-          V: 0,
-          Variety: "Woman Statue",
-        },
-        {
-          U: 468,
-          V: 0,
-          Variety: "Imp Statue",
-        },
-        {
-          U: 504,
-          V: 0,
-          Variety: "Gargoyle Statue",
-        },
-        {
-          U: 540,
-          V: 0,
-          Variety: "Gloom Statue",
-        },
-        {
-          U: 576,
-          V: 0,
-          Variety: "Hornet Statue",
-        },
-        {
-          U: 612,
-          V: 0,
-          Variety: "Bomb Statue",
-        },
-        {
-          U: 648,
-          V: 0,
-          Variety: "Crab Statue",
-        },
-        {
-          U: 684,
-          V: 0,
-          Variety: "Hammer Statue",
-        },
-        {
-          U: 720,
-          V: 0,
-          Variety: "Potion Statue",
-        },
-        {
-          U: 756,
-          V: 0,
-          Variety: "Spear Statue",
-        },
-        {
-          U: 792,
-          V: 0,
-          Variety: "Cross Statue",
-        },
-        {
-          U: 828,
-          V: 0,
-          Variety: "Jellyfish Statue",
-        },
-        {
-          U: 864,
-          V: 0,
-          Variety: "Bow Statue",
-        },
-        {
-          U: 900,
-          V: 0,
-          Variety: "Boomerang Statue",
-        },
-        {
-          U: 936,
-          V: 0,
-          Variety: "Boot Statue",
-        },
-        {
-          U: 972,
-          V: 0,
-          Variety: "Chest Statue",
-        },
-        {
-          U: 1008,
-          V: 0,
-          Variety: "Bird Statue",
-        },
-        {
-          U: 1044,
-          V: 0,
-          Variety: "Axe Statue",
-        },
-        {
-          U: 1080,
-          V: 0,
-          Variety: "Corrupt Statue",
-        },
-        {
-          U: 1116,
-          V: 0,
-          Variety: "Tree Statue",
-        },
-        {
-          U: 1152,
-          V: 0,
-          Variety: "Anvil Statue",
-        },
-        {
-          U: 1188,
-          V: 0,
-          Variety: "Pickaxe Statue",
-        },
-        {
-          U: 1224,
-          V: 0,
-          Variety: "Mushroom Statue",
-        },
-        {
-          U: 1260,
-          V: 0,
-          Variety: "Eyeball Statue",
-        },
-        {
-          U: 1296,
-          V: 0,
-          Variety: "Pillar Statue",
-        },
-        {
-          U: 1332,
-          V: 0,
-          Variety: "Heart Statue",
-        },
-        {
-          U: 1368,
-          V: 0,
-          Variety: "Pot Statue",
-        },
-        {
-          U: 1404,
-          V: 0,
-          Variety: "Sunflower Statue",
-        },
-        {
-          U: 1440,
-          V: 0,
-          Variety: "King Statue",
-        },
-        {
-          U: 1476,
-          V: 0,
-          Variety: "Queen Statue",
-        },
-        {
-          U: 1512,
-          V: 0,
-          Variety: "Piranha Statue",
-        },
-        {
-          U: 1548,
-          V: 0,
-          Variety: "Lihzahrd Statue",
-        },
-        {
-          U: 1584,
-          V: 0,
-          Variety: "Lihzahrd Watcher Statue",
-        },
-        {
-          U: 1620,
-          V: 0,
-          Variety: "Lihzahrd Guardian Statue",
-        },
-        {
-          U: 1656,
-          V: 0,
-          Variety: "Blue Dungeon Vase",
-        },
-        {
-          U: 1692,
-          V: 0,
-          Variety: "Green Dungeon Vase",
-        },
-        {
-          U: 1728,
-          V: 0,
-          Variety: "Pink Dungeon Vase",
-        },
-        {
-          U: 1764,
-          V: 0,
-          Variety: "Obsidian Vase",
-        },
-        {
-          U: 1800,
-          V: 0,
-          Variety: "Shark Statue",
-        },
-        {
-          U: 1836,
-          V: 0,
-          Variety: "Squirrel Statue",
-        },
-        {
-          U: 1872,
-          V: 0,
-          Variety: "Butterfly Statue",
-        },
-        {
-          U: 1908,
-          V: 0,
-          Variety: "Worm Statue",
-        },
-        {
-          U: 1944,
-          V: 0,
-          Variety: "Firefly Statue",
-        },
-        {
-          U: 0,
-          V: 54,
-          Variety: "Scorpion Statue",
-        },
-        {
-          U: 36,
-          V: 54,
-          Variety: "Snail Statue",
-        },
-        {
-          U: 72,
-          V: 54,
-          Variety: "Grasshopper Statue",
-        },
-        {
-          U: 108,
-          V: 54,
-          Variety: "Mouse Statue",
-        },
-        {
-          U: 144,
-          V: 54,
-          Variety: "Duck Statue",
-        },
-        {
-          U: 180,
-          V: 54,
-          Variety: "Penguin Statue",
-        },
-        {
-          U: 216,
-          V: 54,
-          Variety: "Frog Statue",
-        },
-        {
-          U: 252,
-          V: 54,
-          Variety: "Buggy Statue",
-        },
-        {
-          U: 288,
-          V: 54,
-          Variety: "Wall Creeper Statue",
-        },
-        {
-          U: 324,
-          V: 54,
-          Variety: "Unicorn Statue",
-        },
-        {
-          U: 360,
-          V: 54,
-          Variety: "Drippler Statue",
-        },
-        {
-          U: 396,
-          V: 54,
-          Variety: "Wraith Statue",
-        },
-        {
-          U: 432,
-          V: 54,
-          Variety: "Bone Skeleton Statue",
-        },
-        {
-          U: 468,
-          V: 54,
-          Variety: "Undead Viking Statue",
-        },
-        {
-          U: 504,
-          V: 54,
-          Variety: "Medusa Statue",
-        },
-        {
-          U: 540,
-          V: 54,
-          Variety: "Harpy Statue",
-        },
-        {
-          U: 576,
-          V: 54,
-          Variety: "Pigron Statue",
-        },
-        {
-          U: 612,
-          V: 54,
-          Variety: "Hoplite Statue",
-        },
-        {
-          U: 648,
-          V: 54,
-          Variety: "Granite Golem Statue",
-        },
-        {
-          U: 684,
-          V: 54,
-          Variety: "Armed Zombie Statue",
-        },
-        {
-          U: 720,
-          V: 54,
-          Variety: "Blood Zombie Statue",
-        },
-        {
-          U: 756,
-          V: 54,
-          Variety: "Owl Statue",
-        },
-        {
-          U: 792,
-          V: 54,
-          Variety: "Seagull Statue",
-        },
-        {
-          U: 828,
-          V: 54,
-          Variety: "Dragonfly Statue",
-        },
-        {
-          U: 864,
-          V: 54,
-          Variety: "Turtle Statue",
-        },
-        {
-          U: 900,
-          V: 54,
-          Variety: "Macaw Statue",
-        },
-        {
-          U: 936,
-          V: 54,
-          Variety: "Toucan Statue",
-        },
-        {
-          U: 972,
-          V: 54,
-          Variety: "Cockatiel Statue",
-        },
-        {
-          U: 0,
-          V: 162,
-          Variety: "Armor Statue",
-        },
-        {
-          U: 36,
-          V: 162,
-          Variety: "Angel Statue",
-        },
-        {
-          U: 72,
-          V: 162,
-          Variety: "Star Statue",
-        },
-        {
-          U: 108,
-          V: 162,
-          Variety: "Sword Statue",
-        },
-        {
-          U: 144,
-          V: 162,
-          Variety: "Slime Statue",
-        },
-        {
-          U: 180,
-          V: 162,
-          Variety: "Goblin Statue",
-        },
-        {
-          U: 216,
-          V: 162,
-          Variety: "Shield Statue",
-        },
-        {
-          U: 252,
-          V: 162,
-          Variety: "Bat Statue",
-        },
-        {
-          U: 288,
-          V: 162,
-          Variety: "Fish Statue",
-        },
-        {
-          U: 324,
-          V: 162,
-          Variety: "Bunny Statue",
-        },
-        {
-          U: 360,
-          V: 162,
-          Variety: "Skeleton Statue",
-        },
-        {
-          U: 396,
-          V: 162,
-          Variety: "Reaper Statue",
-        },
-        {
-          U: 432,
-          V: 162,
-          Variety: "Woman Statue",
-        },
-        {
-          U: 468,
-          V: 162,
-          Variety: "Imp Statue",
-        },
-        {
-          U: 504,
-          V: 162,
-          Variety: "Gargoyle Statue",
-        },
-        {
-          U: 540,
-          V: 162,
-          Variety: "Gloom Statue",
-        },
-        {
-          U: 576,
-          V: 162,
-          Variety: "Hornet Statue",
-        },
-        {
-          U: 612,
-          V: 162,
-          Variety: "Bomb Statue",
-        },
-        {
-          U: 648,
-          V: 162,
-          Variety: "Crab Statue",
-        },
-        {
-          U: 684,
-          V: 162,
-          Variety: "Hammer Statue",
-        },
-        {
-          U: 720,
-          V: 162,
-          Variety: "Potion Statue",
-        },
-        {
-          U: 756,
-          V: 162,
-          Variety: "Spear Statue",
-        },
-        {
-          U: 792,
-          V: 162,
-          Variety: "Cross Statue",
-        },
-        {
-          U: 828,
-          V: 162,
-          Variety: "Jellyfish Statue",
-        },
-        {
-          U: 864,
-          V: 162,
-          Variety: "Bow Statue",
-        },
-        {
-          U: 900,
-          V: 162,
-          Variety: "Boomerang Statue",
-        },
-        {
-          U: 936,
-          V: 162,
-          Variety: "Boot Statue",
-        },
-        {
-          U: 972,
-          V: 162,
-          Variety: "Chest Statue",
-        },
-        {
-          U: 1008,
-          V: 162,
-          Variety: "Bird Statue",
-        },
-        {
-          U: 1044,
-          V: 162,
-          Variety: "Axe Statue",
-        },
-        {
-          U: 1080,
-          V: 162,
-          Variety: "Corrupt Statue",
-        },
-        {
-          U: 1116,
-          V: 162,
-          Variety: "Tree Statue",
-        },
-        {
-          U: 1152,
-          V: 162,
-          Variety: "Anvil Statue",
-        },
-        {
-          U: 1188,
-          V: 162,
-          Variety: "Pickaxe Statue",
-        },
-        {
-          U: 1224,
-          V: 162,
-          Variety: "Mushroom Statue",
-        },
-        {
-          U: 1260,
-          V: 162,
-          Variety: "Eyeball Statue",
-        },
-        {
-          U: 1296,
-          V: 162,
-          Variety: "Pillar Statue",
-        },
-        {
-          U: 1332,
-          V: 162,
-          Variety: "Heart Statue",
-        },
-        {
-          U: 1368,
-          V: 162,
-          Variety: "Pot Statue",
-        },
-        {
-          U: 1404,
-          V: 162,
-          Variety: "Sunflower Statue",
-        },
-        {
-          U: 1440,
-          V: 162,
-          Variety: "King Statue",
-        },
-        {
-          U: 1476,
-          V: 162,
-          Variety: "Queen Statue",
-        },
-        {
-          U: 1512,
-          V: 162,
-          Variety: "Piranha Statue",
-        },
-        {
-          U: 1548,
-          V: 162,
-          Variety: "Lihzahrd Statue",
-        },
-        {
-          U: 1584,
-          V: 162,
-          Variety: "Lihzahrd Watcher Statue",
-        },
-        {
-          U: 1620,
-          V: 162,
-          Variety: "Lihzahrd Guardian Statue",
-        },
-        {
-          U: 1656,
-          V: 162,
-          Variety: "Blue Dungeon Vase",
-        },
-        {
-          U: 1692,
-          V: 162,
-          Variety: "Green Dungeon Vase",
-        },
-        {
-          U: 1728,
-          V: 162,
-          Variety: "Pink Dungeon Vase",
-        },
-        {
-          U: 1764,
-          V: 162,
-          Variety: "Obsidian Vase",
-        },
-        {
-          U: 1800,
-          V: 162,
-          Variety: "Shark Statue",
-        },
-        {
-          U: 1836,
-          V: 162,
-          Variety: "Squirrel Statue",
-        },
-        {
-          U: 1872,
-          V: 162,
-          Variety: "Butterfly Statue",
-        },
-        {
-          U: 1908,
-          V: 162,
-          Variety: "Worm Statue",
-        },
-        {
-          U: 1944,
-          V: 162,
-          Variety: "Firefly Statue",
-        },
-        {
-          U: 0,
-          V: 216,
-          Variety: "Scorpion Statue",
-        },
-        {
-          U: 36,
-          V: 216,
-          Variety: "Snail Statue",
-        },
-        {
-          U: 72,
-          V: 216,
-          Variety: "Grasshopper Statue",
-        },
-        {
-          U: 108,
-          V: 216,
-          Variety: "Mouse Statue",
-        },
-        {
-          U: 144,
-          V: 216,
-          Variety: "Duck Statue",
-        },
-        {
-          U: 180,
-          V: 216,
-          Variety: "Penguin Statue",
-        },
-        {
-          U: 216,
-          V: 216,
-          Variety: "Frog Statue",
-        },
-        {
-          U: 252,
-          V: 216,
-          Variety: "Buggy Statue",
-        },
-        {
-          U: 288,
-          V: 216,
-          Variety: "Wall Creeper Statue",
-        },
-        {
-          U: 324,
-          V: 216,
-          Variety: "Unicorn Statue",
-        },
-        {
-          U: 360,
-          V: 216,
-          Variety: "Drippler Statue",
-        },
-        {
-          U: 396,
-          V: 216,
-          Variety: "Wraith Statue",
-        },
-        {
-          U: 432,
-          V: 216,
-          Variety: "Bone Skeleton Statue",
-        },
-        {
-          U: 468,
-          V: 216,
-          Variety: "Undead Viking Statue",
-        },
-        {
-          U: 504,
-          V: 216,
-          Variety: "Medusa Statue",
-        },
-        {
-          U: 540,
-          V: 216,
-          Variety: "Harpy Statue",
-        },
-        {
-          U: 576,
-          V: 216,
-          Variety: "Pigron Statue",
-        },
-        {
-          U: 612,
-          V: 216,
-          Variety: "Hoplite Statue",
-        },
-        {
-          U: 648,
-          V: 216,
-          Variety: "Granite Golem Statue",
-        },
-        {
-          U: 684,
-          V: 216,
-          Variety: "Armed Zombie Statue",
-        },
-        {
-          U: 720,
-          V: 216,
-          Variety: "Blood Zombie Statue",
-        },
-        {
-          U: 756,
-          V: 216,
-          Variety: "Owl Statue",
-        },
-        {
-          U: 792,
-          V: 216,
-          Variety: "Seagull Statue",
-        },
-        {
-          U: 828,
-          V: 216,
-          Variety: "Dragonfly Statue",
-        },
-        {
-          U: 864,
-          V: 216,
-          Variety: "Turtle Statue",
-        },
-        {
-          U: 900,
-          V: 216,
-          Variety: "Macaw Statue",
-        },
-        {
-          U: 936,
-          V: 216,
-          Variety: "Toucan Statue",
-        },
-        {
-          U: 972,
-          V: 216,
-          Variety: "Cockatiel Statue",
-        },
-      ],
+      Frames: [],
+      FrameGenerationInfo: {
+        FrameWidth: 36,
+        FrameHeight: 54,
+        TotalWidth: 1980,
+        SecondRowOffset: 162,
+        Types: [
+          "Armor Statue",
+          "Angel Statue",
+          "Star Statue",
+          "Sword Statue",
+          "Slime Statue",
+          "Goblin Statue",
+          "Shield Statue",
+          "Bat Statue",
+          "Fish Statue",
+          "Bunny Statue",
+          "Skeleton Statue",
+          "Reaper Statue",
+          "Woman Statue",
+          "Imp Statue",
+          "Gargoyle Statue",
+          "Gloom Statue",
+          "Hornet Statue",
+          "Bomb Statue",
+          "Crab Statue",
+          "Hammer Statue",
+          "Potion Statue",
+          "Spear Statue",
+          "Cross Statue",
+          "Jellyfish Statue",
+          "Bow Statue",
+          "Boomerang Statue",
+          "Boot Statue",
+          "Chest Statue",
+          "Bird Statue",
+          "Axe Statue",
+          "Corrupt Statue",
+          "Tree Statue",
+          "Anvil Statue",
+          "Pickaxe Statue",
+          "Mushroom Statue",
+          "Eyeball Statue",
+          "Pillar Statue",
+          "Heart Statue",
+          "Pot Statue",
+          "Sunflower Statue",
+          "King Statue",
+          "Queen Statue",
+          "Piranha Statue",
+          "Lihzahrd Statue",
+          "Lihzahrd Watcher Statue",
+          "Lihzahrd Guardian Statue",
+          "Blue Dungeon Vase",
+          "Green Dungeon Vase",
+          "Pink Dungeon Vase",
+          "Obsidian Vase",
+          "Shark Statue",
+          "Squirrel Statue",
+          "Butterfly Statue",
+          "Worm Statue",
+          "Firefly Statue",
+          "Scorpion Statue",
+          "Snail Statue",
+          "Grasshopper Statue",
+          "Mouse Statue",
+          "Duck Statue",
+          "Penguin Statue",
+          "Frog Statue",
+          "Buggy Statue",
+          "Wall Creeper Statue",
+          "Unicorn Statue",
+          "Drippler Statue",
+          "Wraith Statue",
+          "Bone Skeleton Statue",
+          "Undead Viking Statue",
+          "Medusa Statue",
+          "Harpy Statue",
+          "Pigron Statue",
+          "Hoplite Statue",
+          "Granite Golem Statue",
+          "Armed Zombie Statue",
+          "Blood Zombie Statue",
+          "Owl Statue",
+          "Seagull Statue",
+          "Dragonfly Statue",
+          "Turtle Statue",
+          "Macaw Statue",
+          "Toucan Statue",
+          "Cockatiel Statue",
+        ],
+      },
     },
     {
       Color: "#FFBF8E6F",
@@ -43283,3 +42543,25 @@ var settings = {
     },
   ],
 };
+
+function getFrames(frameinfo) {
+  var frames = [];
+  for (var i = 0; i < frameinfo.Types.length; i++) {
+    var u = (i * frameinfo.FrameWidth) % frameinfo.TotalWidth;
+    var firstv = Math.floor(i * frameinfo.FrameWidth / frameinfo.TotalWidth)*frameinfo.FrameHeight;
+    var secondv = firstv + frameinfo.SecondRowOffset;
+    frames.push({
+      U: u,
+      V: firstv,
+      Variety: frameinfo.Types[i]
+    });
+    frames.push({
+      U: u,
+      V: secondv,
+      Variety: frameinfo.Types[i]
+    });
+  }
+  return frames;
+}
+settings.Tiles[105].Frames = getFrames(settings.Tiles[105].FrameGenerationInfo);
+
