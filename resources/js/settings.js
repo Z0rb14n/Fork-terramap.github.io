@@ -42553,12 +42553,14 @@ function getFrames(frameinfo) {
     frames.push({
       U: u,
       V: firstv,
-      Variety: frameinfo.Types[i]
+      Name: frameinfo.Types[i],
+      Variety: "Left"
     });
     frames.push({
       U: u,
       V: secondv,
-      Variety: frameinfo.Types[i]
+      Name: frameinfo.Types[i],
+      Variety: "Right"
     });
   }
   return frames;
